@@ -1,7 +1,7 @@
 # 📝 AHO 项目完整修复与改动清单 (AHO Modification Change Log)
 
 **项目名称**: Asymmetric Hydrogenation of Olefins (AHO)  
-**修复目标**: 解决 Windows 平台兼容性、修复失效外网下载链接、提升现代 Matplotlib/RDKit 环境下代码鲁棒性  
+**修复目标**: 解决 Windows 平台兼容性、修复失效外网下载链接、提升现代 Matplotlib/RDKit 环境下代码稳定性  
 **测试环境**: Windows 11/10 | Python 3.10 | RDKit | Scikit-Learn | Matplotlib  
 
 ---
